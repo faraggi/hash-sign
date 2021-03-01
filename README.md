@@ -1,6 +1,6 @@
 # hash#sign
 
-![logo!](https://raw.githubusercontent.com/faraggi/hash-sign/main/logo-200px.png)
+![logo!](https://raw.githubusercontent.com/faraggi/hash-sign/main/hancock3%20(1).png)
 
 
 
