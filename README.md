@@ -1,5 +1,6 @@
 # hash#sign
-!(https://raw.githubusercontent.com/faraggi/hash-sign/main/JohnHancocksSignature2.png)
+
+![logo!](https://raw.githubusercontent.com/faraggi/hash-sign/main/logo-200px.png)
 
 
 
@@ -34,4 +35,4 @@ anyway...celebs get to sign autographs during covid, and we get to sell our cele
 - NFTs will track the signatures hashed from the picture they draw on the mobile app. (dev question: should we map the pixels to some table on chain?)
 
 
-!(https://github.com/faraggi/hash-sign/blob/main/john-hancock-signature-png.png)
+![by hancock](https://github.com/faraggi/hash-sign/blob/main/john-hancock-signature-png.png)
